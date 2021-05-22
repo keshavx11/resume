@@ -2628,6 +2628,15 @@ h6 {
       font-size: 21px;
       text-transform: uppercase;
       margin-bottom: 20px; }
+    .tabs_inner .tab-content .tab-pane .list li .media .media-body h5 {
+        color: #fff;
+        font-size: 18px;
+        margin-bottom: 20px; }
+    .tabs_inner .tab-content .tab-pane .list li .media .media-body h6 {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 200;
+      margin-bottom: 10px; }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
       color: rgba(255, 255, 255, 0.75);
       margin-bottom: 0px; }
